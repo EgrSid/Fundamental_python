@@ -15,7 +15,8 @@ This directory is organized into several subfolders, each containing more specif
 
 - **`final_prog`**:
   - This subfolder contains complete Python programs that can function as standalone projects. The primary focus is on Object-Oriented Programming (OOP), showcasing the versatility and wide-ranging applications of OOP in Python. These programs are diverse and demonstrate how OOP can be effectively utilized in different contexts. An example of program Tic-tac-toe:
-  ![alt text](images_for_readme/image.png)
+  
+    ![alt text](images_for_readme/image.png)
 
 - **`pygame_prog`**:
   - This folder houses various programs created using the [Pygame](https://pypi.org/project/pygame/) library. These scripts illustrate how to develop 2D games and graphical applications in Python, providing practical examples of game development fundamentals. For example there a flappy bird game:
